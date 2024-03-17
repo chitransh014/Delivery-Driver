@@ -56,5 +56,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Delivery Driver.sln"
+    "dotnet.defaultSolution": "Delivery Driver.sln",
+    "git.ignoreLimitWarning": true
 }
